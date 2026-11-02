@@ -38,7 +38,6 @@ I'm a second year Bachelor of Creative Technologies student at Open Window, spec
 
 ## Main Projects (DV200 Portfolio)
 
-| Project | What it is | Built with | Repo stats |
 | Project | What it is | Built with |
 |---|---|---|
 | **[The Holocron Archive](https://github.com/Troy-jsx/TroyEvans_251096_DV200_Semsester1_API)** | Star Wars data dashboard built on an external API | React, Chart.js, SWAPI |
