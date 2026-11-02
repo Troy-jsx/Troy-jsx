@@ -50,6 +50,18 @@ I'm a second year Bachelor of Creative Technologies student at Open Window, spec
 
 - **[Retro Rat](https://github.com/DVAtors/Retro-Rat)** is a moderated marketplace for retro electronics in South Africa, built with the MERN stack as a group project. I was one of the UI designers and worked mainly on the backend, building the database schemas and the cart API, then connecting them to the frontend. I also deployed my own copy on AWS and Azure and set up its analytics and SEO. [See it live](http://retro-rat.ddns.net).
 
+## GitHub Stats
+
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTroy-jsx&query=%24.public_repos&label=public%20repos&style=for-the-badge&color=000000)
+![Followers](https://img.shields.io/github/followers/Troy-jsx?style=for-the-badge&color=000000)
+
+| Project | Last commit | Code size | Top language |
+|---|---|---|---|
+| The Holocron Archive | ![Last commit](https://img.shields.io/github/last-commit/Troy-jsx/TroyEvans_251096_DV200_Semsester1_API) | ![Code size](https://img.shields.io/github/languages/code-size/Troy-jsx/TroyEvans_251096_DV200_Semsester1_API) | ![Top language](https://img.shields.io/github/languages/top/Troy-jsx/TroyEvans_251096_DV200_Semsester1_API) |
+| CypherID | ![Last commit](https://img.shields.io/github/last-commit/Troy-jsx/CypherID) | ![Code size](https://img.shields.io/github/languages/code-size/Troy-jsx/CypherID) | ![Top language](https://img.shields.io/github/languages/top/Troy-jsx/CypherID) |
+| Made Men | ![Last commit](https://img.shields.io/github/last-commit/Troy-jsx/Made-Men) | ![Code size](https://img.shields.io/github/languages/code-size/Troy-jsx/Made-Men) | ![Top language](https://img.shields.io/github/languages/top/Troy-jsx/Made-Men) |
+| Paws and Purrs Hub | ![Last commit](https://img.shields.io/github/last-commit/Troy-jsx/Paws-and-Purrs) | ![Code size](https://img.shields.io/github/languages/code-size/Troy-jsx/Paws-and-Purrs) | ![Top language](https://img.shields.io/github/languages/top/Troy-jsx/Paws-and-Purrs) |
+
 ## Contact
 
 - Email [251096@virtualwindow.co.za](mailto:251096@virtualwindow.co.za)
